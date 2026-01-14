@@ -1,6 +1,9 @@
 # Studying-Deep-Learning
 2026.01. Studying Deep-Learning
+Q1.
+업로드 예정
 
+Q2.
 MNIST Denoising
 모델은 DnCNN 구조를 사용하였다.
 DnCNN은 깨끗한 이미지를 직접 복원하는 대신, 입력 이미지에 포함된 노이즈 성분을 예측하고 이를 제거하는 잔차(residual) 학습 방식을 사용한다.
